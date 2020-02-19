@@ -13,5 +13,6 @@ Para isso foram usados alguns princípios da Gameficação:
 * Regras e mecânicas óbvias
 * Visão clara de qual o próximo passo a ser dado
 * Recompensas para estimular a participação e o engajamento  
-*  Visão geral e constante do progresso atual* Segmentação das conquistas em fases 
+* Visão geral e constante do progresso atual
+* Segmentação das conquistas em fases 
 * Layout agradável e lúdico
